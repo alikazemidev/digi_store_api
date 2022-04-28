@@ -1,0 +1,16 @@
+{
+    "products":[
+        {
+            "id":1,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/ab44439c06be587a6fd10393bc2a11c22eff9d73_1649083258.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":2,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/0c7f74151b5fb9a38a807714ef1f59e210ae2a77_1604479109.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":3,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/7bf953006c873ba1e22b225f89b54d66ff5c7856_1618738937.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+    ]
+}
