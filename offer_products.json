@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "id":1,
+            "product_name":"گوشی ۱",
+            "price":100000,
+            "off_price":50000,
+            "off_precent":50,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/1661258.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":2,
+            "product_name":"گوشی 2",
+            "price":200000,
+            "off_price":120000,
+            "off_precent":30,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/15d774761e234a15c1c559ac540963baad9e229f_1631704695.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":3,
+            "product_name":"گوشی 3",
+            "price":300000,
+            "off_price":150000,
+            "off_precent":50,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/1f51920e50e79a0fb0628e47b290c19b437c8a22_1641484310.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":4,
+            "product_name":"گوشی 4",
+            "price":500000,
+            "off_price":250000,
+            "off_precent":20,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/d39d1ae019b5c5454f86c9e3754d03bacdf7dba2_1626177843.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":5,
+            "product_name":"گوشی 5",
+            "price":600000,
+            "off_price":250000,
+            "off_precent":70,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/04602d80ad8ad70023940593af9139864f1343eb_1628686549.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":6,
+            "product_name":"گوشی 6",
+            "price":1000,
+            "off_price":480,
+            "off_precent":52,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/a3c9958e70823fa66ec03b54a25388bccbb59e0d_1647263980.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+            "id":7,
+            "product_name":"گوشی 7",
+            "price":7000000,
+            "off_price":3500000,
+            "off_precent":50,
+            "imageUrl":"https://dkstatics-public.digikala.com/digikala-products/0ca836dc8142c065747aa86a9899347631a5b9e5_1608382853.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+    ]
+}
